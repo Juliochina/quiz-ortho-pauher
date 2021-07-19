@@ -43,7 +43,7 @@ function totalScore(){
 
 function getInfoBasedOnScore(){
     if(totalScore() < 7){
-        var score_info = "Infelizmente vou não passou,mas não desanime, retire suas duvidas e tente novamente!";       
+        var score_info = "Infelizmente vou não passou,mas não desanime, retire suas duvidas e tente novamente!";     
     } else if(totalScore() > 7){
         var score_info = "Parabéns! Você está preparado,boas vendas!"
     }
