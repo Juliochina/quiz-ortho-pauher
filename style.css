@@ -91,6 +91,7 @@ h3 {
   max-width: 960px;
 }
 
+
 .button {
   font-family: 'Barclaycard Co Lt',Tahoma,sans-serif;
   margin: 10px 0 0 0;
@@ -131,4 +132,16 @@ h3 {
   width: 20%;
   height: 10px;
   transition: all 100ms ease-in-out;
+}
+.titulo{
+  margin-left: 160px;
+  margin-right: 0px;
+}
+img{
+  width: 120px;
+  left: 10px;
+  margin-top: 15;
+}
+.topo{
+
 }
